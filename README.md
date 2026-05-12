@@ -16,7 +16,7 @@ Dataset:
 Source: GEO Dataset GSE296390  
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE296390  
 Organism: Mouse - Mus musculus  
-Data type: Raw RNA0seq gene count matrix  
+Data type: Raw RNA-seq gene count matrix  
 Analyzed conditions: 5xFAD Alzheimer's disease model and 5xFAD + p75NTR KO  
 
 Data Processing:  
